@@ -1,0 +1,28 @@
+.container-sumar {
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+input {
+    color: orange;
+    width: 90px;
+    line-height: 90px;
+    margin: 6px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 10px rebeccapurple;
+
+}
+.btn-sumar{
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px purple;
+    border: .5px solid #000;
+    outline: none;
+    
+}
